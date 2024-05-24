@@ -1,0 +1,8 @@
+﻿  Random.cpp
+C:\Users\andreea\Documents\C\TSP\TSP\Random.cpp(11,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TSP.cpp
+C:\Users\andreea\Documents\C\TSP\TSP\Heuristic.cpp(39,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andreea\Documents\C\TSP\TSP\Dfs.cpp(48,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andreea\Documents\C\TSP\TSP\Random.cpp(11,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  TSP.vcxproj -> C:\Users\andreea\Documents\C\TSP\x64\Debug\TSP.exe
